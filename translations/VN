@@ -1,0 +1,45 @@
+
+            // Main GUI
+            /*label1.Text = "Loai tai khoan:";
+            label2.Text = "Ten nguoi dung:";
+            label3.Text = "Mat khau:";
+            groupBox2.Text = "Cai dat vi tri";
+            label7.Text = "Toc do:";
+            label9.Text = "Ban kinh di chuyen:";
+            label10.Text = "met";
+            checkBox1.Text = "Bat dau from vi tri mac dinh";
+            groupBox3.Text = "Cai dat Bot";
+            checkBox2.Text = "Tu dong transfer hai Pokemons";
+            label11.Text = "Toi da Pokemons giong nhau";
+            label12.Text = "So CP toi da de transfer:";
+            label28.Text = "So IV toi da de transfer:";
+            groupBox8.Text = "Cai dat Telegram";
+            label30.Text = "Bot nay la mien phi va ma nguon mo! Thu hoi lai tien neu ban da tra cho no!";
+            label32.Text = "Khi nao ban thay gi do lien quan den 'Pokecrot', noi voi ho bot da bi danh cap!";
+            label13.Text = "Max. Pokeballs:";
+            label14.Text = "Max. GreatBalls:";
+            label15.Text = "Max. UltraBalls:";
+            label26.Text = "Max. MasterBalls:";
+            label16.Text = "Max. Revives:";
+            label27.Text = "Max. TopRevives:";
+            label17.Text = "Max. Potions:";
+            label18.Text = "Max. SuperPotions:";
+            label19.Text = "Max. HyperPotions:";
+            label25.Text = "Max. TopPotions:";
+            label20.Text = "Max. RazzBerrys:";
+            label31.Text = "Tong cong:";
+            groupBox5.Text = "Pokemons - khong transfer";
+            checkBox4.Text = "Chon het";
+            groupBox6.Text = "Pokemons - khong catch";
+            checkBox5.Text = "Chon het";
+            groupBox7.Text = "Pokemons - de envolve";
+            checkBox6.Text = "Chon het";
+            button1.Text = "Luu cau hinh / Bat dau Bot";
+            groupBox10.Text = "Cai dat khac";
+            checkBox7.Text = "Su dung LuckyEgg khi Evolve";
+            checkBox8.Text = "Ten Pokemon Duc";
+            checkBox9.Text = "Su dung Incense moi 30phut";
+            checkBox3.Text = "Evolve Pokemons neu thieu candy";
+            checkBox10.Text = "Cho phep Pokemon danh sach GUI";
+            checkBox11.Text = "Giu con Pokemons co the evolved";*/
+            load_lang();
